@@ -44,8 +44,8 @@
 ---
 ## Команды Git для работы с картинками
 _Ни гугл ни яндекс не знают о командах Git для работы с картинками._
-![*Git*](/sgitpic.png "Picture Git")
-![*Шпаргалка по Git*](/Brainwashing-RoR-Git.jpg "Шпаргалка по Git")
+![*Git*](/seminar/gitpic.png "Picture Git")
+![*Шпаргалка по Git*](/seminar/Brainwashing-RoR-Git.jpg "Шпаргалка по Git")
 ---
 
 ## Команды Git для работы с цитатами
