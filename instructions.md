@@ -1,5 +1,5 @@
 # Инструкция по работе с системой контроля версий
-![gitlogo](images/gitlogo.jpg)
+![gitlogo](https://d.radikal.ru/d08/2202/a1/2edabfe0240c.jpg)
 
 ## Commands for working in the GIT version control system
 
@@ -36,13 +36,13 @@
 
 > Всегда проводите команду слияния веток (git merge) из мастер ветки
 
-![gitBranchLogo](images/gitBranchLogo.png)
+![gitBranchLogo](https://a.radikal.ru/a03/2202/39/dea365c0e742.png)
 
 [Справочник по веткам в Git](https://git-scm.com/book/ru/v2/%D0%92%D0%B5%D1%82%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2-Git-%D0%A3%D0%BF%D1%80%D0%B0%D0%B2%D0%BB%D0%B5%D0%BD%D0%B8%D0%B5-%D0%B2%D0%B5%D1%82%D0%BA%D0%B0%D0%BC%D0%B8)
 
 ## Commands for working with GITHub in Git version control system
 
-* ![git remote add](images/friends.png) 
+* ![git remote add](https://a.radikal.ru/a12/2202/b8/d3f43b78970b.png) 
    После создания удаленного репозитория, в терминале необходимо выполнить
  вот такой блок команд для связывания локального и удаленного репозиториев
 
@@ -66,4 +66,4 @@
 * *git remote -v* - __Команда для отображения удаленных репозиториев, которые связаны
  с текущим локальным репозиторием__
 
-![gitGH](images/gitGH.jpeg)
+![gitGH](https://a.radikal.ru/a22/2202/d7/6f4cb0a9734d.jpg)
