@@ -49,13 +49,35 @@
 
 ## Команды для работы с GitHub
 
-* *git clone repository_web_adress* -  **команда позволяет склонировать внешний репозиторий на наш ПК**
+* *git clone repository_web_address* -  **команда позволяет склонировать внешний репозиторий на наш ПК**
 
 * *git pull* - **команда позволяет скачать все из текущего репозитория и автоматически сделать merge с нашей версией**
 
 * *git push* - **команда позволяет отправить нашу версию репозитория на внешний репозиторий**
 
 > ТРЕБУЕТ АВТОРИЗАЦИИ на внешнем репозитории.
+
+### Как добавить локальный репозиторий в GitHub
+
+**Create a new repository on the command line**
+
+1. echo "# -" >> README.md
+2. git init
+3. git add README.md
+4. git commit -m "first commit"
+5. git branch -M main
+6. git remote add origin *web-address*
+7. git push -u origin main
+
+**Push an existing repository from the command line**
+
+1. git remote add origin *web-address*
+2. git branch -M main
+3. git push -u origin main
+
+**Import code from another repository**
+
+You can initialize this repository with code from a Subversion, Mercurial, or TFS project.
 
 ### Как сделать pull request
 
