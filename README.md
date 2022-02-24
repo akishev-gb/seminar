@@ -4,8 +4,6 @@
 
 # Инструкция по работе с системой контроля версий
 
-![pic](mem.jpg)
-
 >Инструкция написана с помощью языка разметки Markdown
 >>см. информацию по языку ниже
 
@@ -55,8 +53,6 @@
 
 ### GIT
 
-![pic](git.png)
-
 [Шпаргалка по консольным командам Git](https://github.com/cyberspacedk/Git-commands)
 
 [Ссылка на скачивание GIT](https://git-scm.com/)
@@ -64,8 +60,6 @@
 [GitHub](https://github.com/)
 
 ### Markdown
-
-![pic](markdown.png)
 
 [Справочник по Docs Markdown](https://docs.microsoft.com/ru-ru/contribute/markdown-reference)
 
