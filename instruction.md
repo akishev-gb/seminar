@@ -22,18 +22,18 @@
 
 >><code>*git reset name_file*</code> - **исключить добавление файла к следующему коммиту**
 
->>>![git add and reset](images/git%20reset.png)
+>>>![git add and reset](git%20reset.png)
 
 ><code>*git commit -m “message”*</code> – **создание коммита**.
 
 ><code>*git log*</code> – **вывод на экран истории всех коммитов с их хеш-кодами**
 
->>>![git log](images/git%20log.png)
+>>>![git log](git%20log.png)
 
 >><code>*git log --graph*</code> – **вывод на экран древовидной истории всех коммитов с их хеш-кодами**
 
->>>![git log graph](images/git%20log%20graph_1.png)
->>>![git log graph](images/git%20log%20graph_2.png)
+>>>![git log graph](git%20log%20graph_1.png)
+>>>![git log graph](git%20log%20graph_2.png)
 
 ><code>*git checkout*</code> – **переход от одного коммита к другому**
 
@@ -45,19 +45,19 @@
 >><code> *git diff 5a286..f8be5*</code> 
  **увидеть разницу между двумя коммитами, используется команда diff (с указанием промежутка между коммитами)**
 
- >>>![git diff](images/git%20diff.png)
+ >>>![git diff](git%20diff.png)
 
 ## Работа с ветками
 
 ><code>*git branch*</code> – **посмотреть список веток в репозитории**
 
->>>![git branch](images/git%20branch.png)
+>>>![git branch](git%20branch.png)
 
 ><code>*git branch <название ветки>*</code> – **создать новую ветку**
 
 ><code>*git checkout <название ветки>*</code> – **переход к другой ветке**
 
->>>![git checkout](images/git%20checkout.png)
+>>>![git checkout](git%20checkout.png)
 
 ><code>*git branch -d <название ветки>*</code> – **удалить ветку**
 
