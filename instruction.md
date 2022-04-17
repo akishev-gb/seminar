@@ -1,17 +1,26 @@
 # Инструкция по работе с Git
 
-
 ## Начальные настройки и установки
 
-><code>*git config --global user.name «Ваше имя английскими буквами»  например: Konstantin*
+Чтобы зарегистрироваться в Git, надо представиться, для этого в терминале последовательно вводим две строки:
+><code>*git config --global user.name «Ваше имя английскими буквами»*</code>
 
->*git config --global user.email ваша почта@example.com*</code>
+><code>*git config --global user.email ваша почта@example.com*</code> 
+>>Пример:
+>>
+>><code>*git config --global user.name IvanIvanov*</code>
+>>
+>><code>*git config --global user.email ivanov_ip@yandex.ru*</code>
 
-><code>*git init*</code> – **инициализация локального репозитория**
+><code>*git init*</code> – **инициализация локального репозитория в созданной и открытой в VSCode папке**
 
 ><code>*git status*</code> – **получить информацию от git о его текущем состоянии**
 
-><code>*git add*</code> – **добавить файл или файлы к следующему коммиту**
+ Для сохранения изменений в файле, их необходимо закоммитить. Но сначала надо обозначить эти файлы для Git, при помощи команды <code>*git add*</code>, добавляющей (или подготавливающей) их к коммиту.
+
+><code>*git add name_file*</code> – **добавить файл или файлы к следующему коммиту**
+
+>><code>*git reset name_file*</code> - **исключить добавление файла к следующему коммиту**
 
 ><code>*git commit -m “message”*</code> – **создание коммита**.
 
