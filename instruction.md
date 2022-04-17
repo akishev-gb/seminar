@@ -26,6 +26,10 @@
 
 ><code>*git commit -m “message”*</code> – **создание коммита**.
 
+><code>*git rm -r images/*</code> – **команда для удаления уже закоммиченой папки и содержимого (подкаталог images/)**.
+
+>>>![git rm -r folder/](git_rm_r_folder.png)
+
 ><code>*git log*</code> – **вывод на экран истории всех коммитов с их хеш-кодами**
 
 >>>![git log](git%20log.png)
