@@ -1,5 +1,9 @@
 # Инструкция для работы с Markdown
 
+<!-- https://docs.google.com/spreadsheets/d/1yvFK5P4h-BQ4MyYOU8AJYmaMsC5-C_Z_7sGXJtZ9u1k/edit?usp=sharing гугл диск ссылка на команды в кратком описании -->
+
+<!-- https://drive.google.com/drive/folders/1GZFQ-nCW7Bzd8VoQ6ZRZriYMbioccKRu?usp=sharing гугл диск ссылка на краткое описание ниструкции md -->
+
 ## Выделения текста
 
 Выделять слова можно при помощи `*` и `_`. Одним символ для наклонного текста, два символа для жирного текста, три — для наклонного и жирного одновременно.
