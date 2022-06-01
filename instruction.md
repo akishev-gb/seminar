@@ -1,5 +1,11 @@
 # Инструкция для работы с GIT
 
+![git icon](git.jpg)
+
+>A branch, a tag, and a reflog walk into a bar. The bartender says, "What is this, some sort of rebase?"
+>
+>git-jokes
+
 ## Начальные настройки и установки
 
 *git config --global user.name «Ваше имя английскими буквами»  например: Konstantin*
