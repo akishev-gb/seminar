@@ -43,3 +43,31 @@
 *git push* - **выгрузить изменение на удаленный репозиторий**
 
 *git pull* - ***стянуть изменения из удаленного репозитория**
+
+## Никак не могу понять как начинать работать с Git
+
+*Каждый раз, когда я наинаю работать с ним, прописываю git статус, и он выдает у меня миллион триллионов ошибок*
+
+![image](https://sun9-74.userapi.com/s/v1/if2/6uNRe5gdKFWApxQ8ccY57RXgjYwYiWUx1eu0wHbmywdPc7Kylvr0pW9xoKft0RtPkK3TSrww8awQ_Uzf8fyaKO58.jpg?size=323x57&quality=95&type=album)
+
+*В системе управлениеями версий горит триллион ошибок*
+
+![image2](https://sun9-52.userapi.com/s/v1/if2/46APpL2klpUWt_-FmyU_WV3qBxRzbIg2q5C4m0jgctSFik-dWx2w3V9AgfQT3ns8ykuH5Xnh7lQKJ9oZj6ix3emk.jpg?size=281x293&quality=96&type=album)
+
+*Тут все горит зеленым и красным*
+
+В целом, будто понял все, но как начинать работать я не понял
+
+![image3](https://caricatura.ru/parad/bushuev/pic/karikatura-granit-nauki_(artem-bushuev)_22056.jpg)
+
+а еще этот английский дурацкий...
+
+**ЗНАЮ** что учить надо, а не получается, слова checkout, вообще отдельное тема, как я его только не писал...
+
+Но в целом мне очень нравится!
+
+Спасибо больше за семинары, очень понравилось, как все объясняли, все в целом было понятно!
+
+Ну и а последок важный тест 
+
+https://suzzy.ru/quiz/test-kto-ty-iz-ligi-legend-league-of-legends/?play=again
