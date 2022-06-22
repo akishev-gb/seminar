@@ -101,7 +101,7 @@
 
 ![checkout on already exist branch](https://sun9-40.userapi.com/impg/xgPRLmQviNb_wAFZfUnBTDu8DL29FIBwjWbX3w/6LkDpsdDTMM.jpg?size=416x191&quality=95&sign=08c354053101be1b78d8f2bff6d6ec6e&type=album)
 
->### *git merge "branch_name" - **слияние веток**
+>### *git merge "branch_name"* - **слияние веток**
 
 * Пример без конфликта:
 
@@ -111,7 +111,7 @@
 
 ![merge_conflict](https://sun9-31.userapi.com/impg/jQv3GpjfQ2kmoG71XeZ9SuTWKc80AwUIuibl3Q/j9UsXKn2Up4.jpg?size=466x91&quality=95&sign=8dcb18a11a8a0d21876758d2e44aa050&type=album)
 
->### *git branch -d "branch_name* - **удаление ветки**
+>### *git branch -d "branch_name"* - **удаление ветки**
 
 * Пример:
 
@@ -122,3 +122,23 @@
 * Пример:
 
 ![git log](https://sun9-71.userapi.com/impg/IfVh4g7MyqJmjwBbV0YLnIXnp0uTU2_TC5HQUA/dL5plAQXxMY.jpg?size=551x441&quality=95&sign=021ff133a30d4ce957a1727b53ca1825&type=album)
+
+## Команды для работы с удалённым репозиторием
+
+>### *git clone "адрес удалённого репозитория"* - **создание локальной копии удалённого репозитория**
+
+* Пример:
+
+![git clone](https://sun9-32.userapi.com/impg/GPgLoz7X22QnIAomnZx7VOrkOdgdmlfJ26J1Yw/XJM-JZ9VWZo.jpg?size=636x89&quality=95&sign=dd7522d0de5e5b4bae179392d34d1c57&type=album)
+
+>### *git push* - **загрузка изменений из локального в удалённый репозиторий**
+
+* Пример:
+
+![git push](https://sun9-9.userapi.com/impg/TOm7ZDADGkq8di7F1EnTsVO8mbf7Wq7OakuHRQ/exuYH0HpNMM.jpg?size=430x156&quality=95&sign=870421985232f6f7b2fe6b8ace737243&type=album)
+
+>### *git pull* - **загрузка и слитие изменений из удалённого в локальный репозиторий**
+
+* Пример:
+
+![git pull](https://sun9-29.userapi.com/impg/HFxN1-l3oGNl3kQZLeRgqjJViRTzeELF5csJ1g/_nWGV2yy5zc.jpg?size=438x208&quality=95&sign=649a85252b08ec1f4509079042415a2f&type=album)
