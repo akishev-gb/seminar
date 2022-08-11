@@ -34,3 +34,7 @@
 *git push* - **upload changes into remote repo**
 
 *git pull* - **download changes to remote repo**
+
+*git remote add origin https://github.com/hvtee/ID* - **create remote repo**
+
+*git branch -M main* - **rename branch to main**
