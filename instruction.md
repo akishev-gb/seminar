@@ -39,3 +39,5 @@
 *git remote add origin* - **фиксация ветки в удаленном репозитории**
 
 *git branch -M <branch_name>* - **изменение названия основной ветки**
+
+Добавил ветку Lyubimov_seminar_3
