@@ -35,3 +35,7 @@ git branch -d (branch_name)* - **delate merged branch**
 *git push* - **used to upload local repository content to a remote repository**
 
 *git pull* - **used to fetch and download content from a remote repository and immediately update the local repository to match that content**
+
+*git remote add origin* - **add the remote URL to your local git repository with git remote add origin <URL>. This stores the remote URL under a more human-friendly name, origin.**
+
+*git branch -m <brunch_name>* **changing brunch name from master to main**
