@@ -39,3 +39,10 @@ git branch -d (branch_name)* - **delate merged branch**
 *git remote add origin* - **add the remote URL to your local git repository with git remote add origin <URL>. This stores the remote URL under a more human-friendly name, origin.**
 
 *git branch -m <brunch_name>* **changing brunch name from master to main**
+
+## All done
+**_That's it! You have created your first GitHub repo, connected it to your computer, and pushed (or uploaded) a file from your computer to your repository called Seminar3. Next time, I will write more details about Git cloning, adding new files, modifying existing files, and pushing (uploading) files to GitHub._**
+
+![see you soon](seeusoon.jpg)
+
+
