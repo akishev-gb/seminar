@@ -35,3 +35,6 @@
 
 *git pull* - **send changes from remote repository to local comp**
 
+*git remote add origin* - **fix the branch in remote repository**
+
+*git branch -M branch_name* - **change the name of main branch**
