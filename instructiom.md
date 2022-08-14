@@ -33,5 +33,5 @@
 
 *git push* - **send changes from local comp to remote repository**
 
-*git pull* - **send changes from remote repository to local comp**
+*git pull* - **send changes from remote repository to local computer**
 
