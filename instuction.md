@@ -39,3 +39,6 @@ git merge <branch_name>* - **слить данные в текущую ветк�
 *
 *
 *
+vjkfvbjfgoub
+nvlohfvbow
+.c[dv[f]]
