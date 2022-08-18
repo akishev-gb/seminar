@@ -46,3 +46,47 @@
 
 *git branch -M <branch_name>* - **изменение названия основной ветки**
 
+## Картинки для системы Git из интернета
+
+![Википедия](https://upload.wikimedia.org/wikipedia/commons/e/e0/Git-logo.svg)
+
+![](https://miro.medium.com/max/1400/1*mSE6ialQ-9TcGUz5ts_FMA.png)
+
+![](https://res.cloudinary.com/dyd911kmh/image/upload/v1651047046/image8_0e61d0dad8.png)
+
+![](https://raw.githubusercontent.com/GeneKao/programming-notes/master/git/img/git-1-1.bmp) 
+
+![](https://www.hostinger.com.ua/rukovodstva/wp-content/uploads/sites/8/2017/04/osnovnye-git-komandy.png)
+
+## 3 ресурса для изучения сисетмы Git
+
+1. [Доступен в русскоязычной версии](http:githowto.com)
+
+2. [Курс для новичков](https://itproger.com/course/git)
+
+3. [Учебник по Git для начинающих: просто о сложном](https://codernet.ru/articles/drugoe/uchebnik_po_git_dlya_nachinayushhix_prosto_o_slozhnom/)
+
+## Цитаты великих людей
+
+>«Никогда не ошибается тот, кто ничего не делает». Теодор Рузвельт
+
+>«Мы находимся здесь, чтобы внести свой вклад в этот мир. Иначе зачем мы здесь?» Стив Джобс
+
+>«Лучше быть хорошим человеком, "ругающимся матом", чем тихой, воспитанной тварью». Фаина Раневская
+
+>«Ядерную войну невозможно выиграть». Андрей Сахаров
+
+>«Успех – паршивый учитель. Он заставляет умных людей думать, что они не могут проиграть». Билл Гейтс
+
+## Шаги для достижения успеха
+
+* ***Начните планировать и действовать***
+
+* ***Постарайтесь одерживать минимум 3 победы за день***
+
+* ***Не отмазывайтесь!***
+
+* ***Ставьте перед собой высокие цели***
+
+* ***Хвалите себя***
+
