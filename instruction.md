@@ -1,31 +1,60 @@
-# Инструкция по работе с GIT
+# Инструкция по работе с Git
 
-# Базовые команды
+## Базовые команды при работе с Git
 
-*git init* – **инициализация локального репозитория**
+*git version* - **версия системы Git**
 
-*git status* – **получить информацию от git о его текущем состоянии**
+*git config --global user.name «Ваше имя английскими буквами»* - **Ввод имени в систему**
 
-*git add* – **добавить файл или файлы к следующему коммиту**
+*git config --global user.email ваша почта@example.com* - **Ввод эленектронной почты**
 
-*git commit -m “message”* – **создание коммита.**
+*git init* - **Инициализация локального репозитория**
 
-*git log* – **вывод на экран истории всех коммитов с их хеш-кодами**
+*git status* - **Вывод состояния системы на данный момент**
 
+*git add* - **Добавление версионности файлу**
 
-# Команды по ветвлению
+*git commit -m <Some_message>* - **Добавление файлов к комиту(сохранению)**
 
-*git branch* - **команда для показа списка веток**
+*git diff* - **Команда для вывода разницы между последним коммитом и текущими изменениями**
 
-*git branch <branch_name>* - **команда для создания новой ветки**
+*git log* - **Вывод списка коммитов в хронологическом порядке**
 
-*git checkout <branch_name>* - **переход на ветку branch_name**
+*git checkout <хэш-номер коммита или master>* - **Переключение между различными коммитами**
 
-*git branch -d <branch_name>* - **удалить уже слитую ветку**
+*git gelp* - **справка по всем командам**
 
-*git merge <branch_name>* - **слить данные в текущею ветку из ветки branch_name**
+*git rm* - **удаление файлов из индекса и рабочей копии**
 
-*git log --graph* - **вывод журнала в графической последовательности**
+*git clean* - **удаление мусора из рабочего каталога**
+
+*git clone* - **Клонирование существующего репозитория**
+
+*git branch* - **своего рода "менеджер веток". Она умеет перечислять ваши ветки, создавать новые, удалять и переименовывать их**
+
+*Шпаргалка для git*
+<img style="display: block;-webkit-user-select: none;margin: auto;cursor: zoom-in;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://media.cheatography.com/storage/thumb/shirmik2003_git-cheat-sheet-by-samcollett-rus-wip.750.jpg?last=1577012271" width="330" height="467">
+
+*Ссылка для шпаргалки по Git*
+https://cheatography.com/shirmik2003/cheat-sheets/git-cheat-sheet-by-samcollett-rus-wip/ 
+
+Скачать полное руководство по Git можно по ссылке
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);transition: background-color 300ms;" src="https://git-scm.com/images/pdf.png">
+https://github.com/progit/progit2-ru/releases/download/2.1.105/progit.pdf
+
+## Команды по ветвлению
+
+*git branch* - **просмотр всех веток в репозитории**
+
+*git branch <branch_name>* - **создание новой ветки**
+
+*git checkout <branch_name>* - **переключение на ветку <branch_name>**
+
+*git merge <branch_name>* - **слияние веток <branch_name>**
+
+* git branch -d <branch_name>* - **удаление ветки <branch_name>**
+
+*git log --graph* - **графическое отображение сделанных коммитов**
 
 ## Команды для удаленного репозитория
 
