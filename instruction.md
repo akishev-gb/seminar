@@ -1,4 +1,4 @@
-# **Инструкция по работе с** ![Git_logo](/logo/Git_logo.jpeg)
+# **Инструкция по работе с** ![Git_logo](logo/Git_logo.jpeg)
 
 ## Базовые команды при работе с Git
 
