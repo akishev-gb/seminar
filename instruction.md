@@ -37,7 +37,16 @@
 
 *git branch -M <branch_name>*  - **переименование основной ветки**
 
+##   в домашней работе  нужно  было изменить  файл в удаленном репо 
+
+*Добавлю ссылки*
+**gb.ru**
  
+ **https://www.youtube.com/watch?v=gzbLODUb1sA&ab_channel=LakeshoreRecords**
+
+ **https://github.com/**
+ 
+ *Надеюсь  данных  небольших изменений  хватит*
 
 
 
