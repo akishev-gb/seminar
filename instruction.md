@@ -34,4 +34,7 @@
 
 *git clone <ссылка на репо>
 
-*
+*git pull
+
+*git push -u origin
+
