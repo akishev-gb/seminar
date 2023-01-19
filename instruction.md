@@ -35,3 +35,5 @@
 *git clone <ссылка на репо>* - **скачать удаленный репозиторий**
 
 *git push* - ****
+
+*git push -u origin <name branch>*
