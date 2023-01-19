@@ -65,3 +65,8 @@ To learn GIT, follow the link [git education](https://habr.com/ru/post/541258/)
 
 ![кот №2](images/kotik2.jpg)
 
+*git push* - **отправить изменения на удалённый репозиторий**
+
+*git pull* - **скачать изменения с удалённого репозитория**
+
+*git push -u origin <название ветки>
