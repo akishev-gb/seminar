@@ -32,12 +32,18 @@
 
 *git log --graph* - **команда для вывода журнала изменений в графическом режиме**
 
+*git clone <ссылка>* - **команда для клонирования удаленного репозитория**
+
+*git push* - **залить локальный репозиторий**
+
+*git pull* - **слить в локальный репозиторий**
+
 ![error][def1]
 
-![error][def2]
+![Error][def2]
 
 [def1]: m8.jpeg
-[def2]: Unknown.jpeg
+[def2]: conflict1.png
 [def3]: https://www.bmw.ru/ru/index.html 
 [def4]: small.jpg
 [def5]: conflict2.jpeg
